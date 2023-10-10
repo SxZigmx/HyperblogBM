@@ -1,2 +1,2 @@
-# HyperblogBM
-blog creado en base al curso git y github
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
